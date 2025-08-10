@@ -35,7 +35,7 @@ Rui_XSS 是一个为 **Burp Suite** 编写的被动式 XSS 漏洞检测插件，
 ## 📷 插件截图
 
 <p align="center">
-  <img src="images/ui-example.png" alt="插件界面示例" width="80%">
+  <img src="https://github.com/yanglittlecat/rui_xss/blob/main/demo.png" alt="插件界面示例" width="80%">
 </p>
 
 ---
